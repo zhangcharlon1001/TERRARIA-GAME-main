@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.codeartsdoer/
+.DS_Store
+Thumbs.db
+# 非作品产物
+gamedemo.mp4
+.agents/
+skills-lock.json
